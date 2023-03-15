@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/signup/forecaster", {data:[{}],fetch:{},mutations:[]});
